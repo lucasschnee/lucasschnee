@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Schnee</h1>
-<h3 align="center">A third year CS and Math double major at Vanderbilt</h3>
+<h3 align="center">A third year CS and Math dual major at Vanderbilt</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucasschnee/LucasSchnee.GitHub.Portfolio](https://github.com/lucasschnee/LucasSchnee.GitHub.Portfolio)
 
